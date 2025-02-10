@@ -1,0 +1,3 @@
+[submodule "guardifyFrontend"]
+	path = guardifyFrontend
+	url = https://github.com/someshsce/Guardify.git
