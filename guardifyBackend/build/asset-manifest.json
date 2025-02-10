@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c36bb888.css",
+    "main.js": "/static/js/main.471a9554.js",
+    "static/js/787.a4946f34.chunk.js": "/static/js/787.a4946f34.chunk.js",
+    "static/media/videoGr.mp4": "/static/media/videoGr.7d1ea6a94986d5c2a068.mp4",
+    "static/media/pt3.png": "/static/media/pt3.f9d07b3b4030dfb3d9a9.png",
+    "static/media/sat3.png": "/static/media/sat3.2bb52743396dc662053e.png",
+    "static/media/sa3.png": "/static/media/sa3.53db774390f5bc7887ea.png",
+    "static/media/pt4.png": "/static/media/pt4.0ea23dd22a1bcbde7c09.png",
+    "static/media/pt2.png": "/static/media/pt2.f5912e108db48e91c052.png",
+    "static/media/sa1.png": "/static/media/sa1.cad14c0f98bb84f9647b.png",
+    "static/media/sa.png": "/static/media/sa.7af93c23c8d690f76527.png",
+    "static/media/sa2.png": "/static/media/sa2.757bfcd5245432083d43.png",
+    "static/media/pt.png": "/static/media/pt.18d4ca138aadc069e62a.png",
+    "static/media/SomeshPic.jpg": "/static/media/SomeshPic.0b1d6f93075b8aafd92c.jpg",
+    "static/media/ir.png": "/static/media/ir.f24c6ee5036bd81df387.png",
+    "static/media/courses.png": "/static/media/courses.72ab33f8b3e45a5efbde.png",
+    "static/media/OurMission.png": "/static/media/OurMission.8c5485962bc356f5c5fb.png",
+    "static/media/OurStory.png": "/static/media/OurStory.bca3d510e47c9789eeed.png",
+    "static/media/pt1.png": "/static/media/pt1.60eff97cf620d1626f0d.png",
+    "static/media/sat1.png": "/static/media/sat1.23eef978fa4ede1de102.png",
+    "static/media/sat.png": "/static/media/sat.2bfc688e0d3654d3d75a.png",
+    "static/media/sat2.png": "/static/media/sat2.8f560f72c8f3f7c45017.png",
+    "static/media/WhyChooseUs.png": "/static/media/WhyChooseUs.049cf4cdbf31afaf7183.png",
+    "static/media/GetInTouch.png": "/static/media/GetInTouch.9ab5cada9408e883ee3e.png",
+    "static/media/PricingPic.png": "/static/media/PricingPic.f588934688a9ec09b026.png",
+    "static/media/cmsoon.jpg": "/static/media/cmsoon.41bf6588ecfba94d9b34.jpg",
+    "static/media/ContactUs.png": "/static/media/ContactUs.4e684be5f293a4bcf736.png",
+    "static/media/FounderPic.png": "/static/media/FounderPic.bf375b9b3da207358e62.png",
+    "static/media/CoFounderPic.jpg": "/static/media/CoFounderPic.a7f6cfd7119961c553ed.jpg",
+    "static/media/AdityaPic.jpeg": "/static/media/AdityaPic.4bb1ded010c40f055ba4.jpeg",
+    "static/media/logo.png": "/static/media/logo.8bf5c0155f7053ed62ed.png",
+    "index.html": "/index.html",
+    "main.c36bb888.css.map": "/static/css/main.c36bb888.css.map",
+    "main.471a9554.js.map": "/static/js/main.471a9554.js.map",
+    "787.a4946f34.chunk.js.map": "/static/js/787.a4946f34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c36bb888.css",
+    "static/js/main.471a9554.js"
+  ]
+}
